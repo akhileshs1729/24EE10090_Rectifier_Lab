@@ -1,0 +1,6 @@
+{
+  "name": "RectifierLab - Power Electronics Studio",
+  "description": "Interactive Rectifier Circuit Simulator with schematic diagram, animated current loops, real-time waveform generator, and harmonics analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
